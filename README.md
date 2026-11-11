@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Hansika Sharma! 👋
 
-<!--
-**hansikasharma190-cmyk/hansikasharma190-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UI/UX Designer | Creative Visual Designer
 
-Here are some ideas to get you started:
+I'm a design student passionate about creating meaningful digital experiences and visually engaging designs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring the intersection of creativity, functionality, and user-centered design.
+
+### 🎨 What I Do
+- UI/UX Design
+- Branding & Visual Identity
+- Social Media Design
+- Creative Campaigns
+
+### 🛠️ Tools I Use
+- Figma
+- Adobe Illustrator
+- Adobe Photoshop
+- Canva
+
+### 🌱 Currently Learning
+- User Research & Interaction Design
+- Web Design & Development
+- Creative Coding
+
+### 🤝 Let's Connect
+- Portfolio: Coming Soon
+---
+
+*Designing with curiosity. Creating with purpose.* ✨
+
